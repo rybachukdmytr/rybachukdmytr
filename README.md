@@ -2,8 +2,8 @@
 
 <p align="left">
 Hi! 🤗 <br/>
-I'm a seniro backend developer.
-I'm very familiar with Rust ( Actix / Solana /Anchor ) | C# ASP.NET Core | Ruby on Rails | MongoDB | PostgreSQL | GraphQL | AWS | CI/CD.
+I'm a seniro backend developer. <br/>
+I'm very familiar with Rust ( Actix / Solana /Anchor ) | C# ASP.NET Core | Ruby on Rails | MongoDB | PostgreSQL | GraphQL | AWS | CI/CD. <br/>
 Also I have experience in MERN Stack.
 </p>
 
