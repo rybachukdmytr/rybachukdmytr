@@ -1,4 +1,4 @@
-<h1>Senior Blockchain & Full-stack Developer</h1>
+<h1>Senior Backend Developer | WEB3</h1>
 
 <p align="left">
 Hi! 🤗 <br/>
